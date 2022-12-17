@@ -1,1 +1,59 @@
-# css
+/* 
+#bf80b7 фиолетовый
+##58c6c7 бирюзовый
+##fcc97a желтый
+
+
+*/
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #fcc97a1f;
+}
+
+header {
+    background-image: linear-gradient(135deg, #fcc97a 10%, #bf80b7 100%);
+}
+
+section {
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+section > h2 {
+    text-transform: uppercase;
+    font-size: small;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;    
+}
+
+.profile-photo{
+    border-radius: 50%;
+    max-width: 250px;
+}
+
+
