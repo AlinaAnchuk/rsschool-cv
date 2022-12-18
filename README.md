@@ -1,3 +1,3 @@
-https://github.com/AlinaAnchuk/rsschool-cv/pull/1
+[Markdown & Git](https://github.com/AlinaAnchuk/rsschool-cv/pull/1)
 
-https://github.com/AlinaAnchuk/rsschool-cv/pull/3
+[CV. Cross-Check](https://github.com/AlinaAnchuk/rsschool-cv/pull/3)
